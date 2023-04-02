@@ -80,8 +80,7 @@ def copy_recent_h3_theater_file():
     dll_dirs_to_search = []
     for drive_letter in dll_drive_letters:
         dll_dirs_to_search.extend([
-            os.path.join(drive_letter,
-                         r'Program Files (x86)\Steam\steamapps\common\Halo The Master Chief Collection\halo3'),
+            os.path.join(drive_letter, r'\Program Files (x86)\Steam\steamapps\common\Halo The Master Chief Collection\halo3'),
             os.path.join(drive_letter, r'SteamLibrary\steamapps\common\Halo The Master Chief Collection\halo3'),
             os.path.join(drive_letter, r'SteamLibary\steamapps\common\Halo The Master Chief Collection\halo3')
         ])
@@ -197,8 +196,7 @@ def copy_recent_h3odst_theater_file():
     dll_dirs_to_search = []
     for drive_letter in dll_drive_letters:
         dll_dirs_to_search.extend([
-            os.path.join(drive_letter,
-                         r'Program Files (x86)\Steam\steamapps\common\Halo The Master Chief Collection\halo3odst'),
+            os.path.join(drive_letter, r'\Program Files (x86)\Steam\steamapps\common\Halo The Master Chief Collection\halo3odst'),
             os.path.join(drive_letter, r'SteamLibrary\steamapps\common\Halo The Master Chief Collection\halo3odst'),
             os.path.join(drive_letter, r'SteamLibary\steamapps\common\Halo The Master Chief Collection\halo3odst')
         ])
@@ -315,8 +313,7 @@ def copy_recent_haloreach_theater_file():
     dll_dirs_to_search = []
     for drive_letter in dll_drive_letters:
         dll_dirs_to_search.extend([
-            os.path.join(drive_letter,
-                         r'Program Files (x86)\Steam\steamapps\common\Halo The Master Chief Collection\halo3reach'),
+            os.path.join(drive_letter, r'\Program Files (x86)\Steam\steamapps\common\Halo The Master Chief Collection\halo3reach'),
             os.path.join(drive_letter, r'SteamLibrary\steamapps\common\Halo The Master Chief Collection\halo3reach'),
             os.path.join(drive_letter, r'SteamLibary\steamapps\common\Halo The Master Chief Collection\halo3reach')
         ])
@@ -432,8 +429,7 @@ def copy_recent_h4_theater_file():
     dll_dirs_to_search = []
     for drive_letter in dll_drive_letters:
         dll_dirs_to_search.extend([
-            os.path.join(drive_letter,
-                         r'Program Files (x86)\Steam\steamapps\common\Halo The Master Chief Collection\halo4'),
+            os.path.join(drive_letter, r'\Program Files (x86)\Steam\steamapps\common\Halo The Master Chief Collection\halo4'),
             os.path.join(drive_letter, r'SteamLibrary\steamapps\common\Halo The Master Chief Collection\halo4'),
             os.path.join(drive_letter, r'SteamLibary\steamapps\common\Halo The Master Chief Collection\halo4')
         ])
