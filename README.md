@@ -13,7 +13,7 @@ Easily backup your halo film files along with other important corresponding file
 - Backup your most recent theater file
 - Backup the dll used.
 - Backup the map used.
-- Generates a text file containing the version number of the game the film file was created on, as well as the date and time the theater file was created.
+- Generates a text file containing the current version number of the game, as well as the date and time the theater file was created.
 
 ## How it Works
 
